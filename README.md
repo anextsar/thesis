@@ -69,16 +69,6 @@ Here’s a detailed roadmap and content breakdown for your thesis, **"Features o
   - Relevant Uzbek legal documents.  
 
 ---
-
-### **Tips for Execution**
-1. **Introduction**: Start by explaining why this topic is essential in today’s globalized legal context. Highlight the increasing relevance of paternity issues in cross-border cases.  
-2. **Chapters**: Use a mix of descriptive and analytical approaches. Present the legal systems of developed countries objectively while critiquing them where necessary.  
-3. **Comparative Analysis**: Focus on similarities and differences in legal frameworks, identifying potential solutions for Uzbekistan.  
-4. **Conclusion**: Emphasize actionable recommendations for policymakers in Uzbekistan.  
-5. **References**: Ensure a wide range of sources to substantiate your claims and comparisons.  
-
-This detailed plan will help you systematically structure your thesis and complete it effectively.
-
 ### **Introduction**
 
 ---
